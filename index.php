@@ -54,7 +54,7 @@ background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
 
 		<h3 class="text-uppercase p-3 text-center d-flex justify-content-between " 
 
-"> <a href="#">world-wide cases</a><a href="#">india cases</a></h3>
+"> <a href="worldwidecovid19.herokuapp.com"target="_blank">world-wide cases</a><a href="indiacovid19pandemic.herokuapp.com"target="_blank">india cases</a></h3>
 
 	
 
