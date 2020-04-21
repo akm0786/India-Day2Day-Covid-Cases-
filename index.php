@@ -81,7 +81,7 @@ background-image: linear-gradient(147deg, #FFE53B 0%, #FF2525 74%);
 	
 	
 				$i=$totalDays-1;	
-				while ($i>0) 
+				while ($i>=0) 
 				{
 	
 					?>
